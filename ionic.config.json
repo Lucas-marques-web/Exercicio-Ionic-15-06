@@ -1,0 +1,7 @@
+{
+  "name": "exercicio-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
